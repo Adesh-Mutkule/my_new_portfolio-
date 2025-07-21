@@ -30,7 +30,7 @@ const Home = () => {
             <div className="col-lg-6" data-aos="fade-right" data-aos-delay="200">
               <div className="hero-content">
                 <h1 className="hero-title">
-                  Hi, I'm <span className="gradient-text">Adesh pawar</span>
+                  Hi, I'm <span className="gradient-text">Adesh Mutkule</span>
                 </h1>
                 <h2 className="hero-subtitle">Full Stack Developer</h2>
                 <p className="hero-description">
